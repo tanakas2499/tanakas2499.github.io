@@ -131,6 +131,11 @@ h6 {
     color: #ffffff;
 }
 
+.top-header .container .row .col-md-12 h3 {
+    color: #ffffff !important;
+}
+
+
 .top-header .typed-cursor {
     font-size: 3vw;
 }
