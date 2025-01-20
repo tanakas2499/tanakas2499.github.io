@@ -122,6 +122,15 @@ h6 {
     color: #ffffff;
 }
 
+.top-header h3 {
+    display: inline-block;
+    margin: 0;
+    height: 40px;
+    font-size: 3vw;
+    font-weight: 400;
+    color: #ffffff;
+}
+
 .top-header .typed-cursor {
     font-size: 3vw;
 }
