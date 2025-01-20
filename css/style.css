@@ -155,18 +155,6 @@ h6 {
     color: #ffffff;
 }
 
-.under-construction {
-    font-size: 1rem; /* Adjust font size as needed */
-    color: #ff9800; /* Orange for visibility */
-    font-weight: bold; /* Make it stand out */
-    margin-top: 10px; /* Add spacing from other elements */
-    background-color: #fff3cd; /* Subtle yellow background */
-    padding: 5px 10px; /* Add padding for better appearance */
-    border: 1px solid #ffeeba; /* Border to match the background */
-    border-radius: 5px; /* Rounded edges for a modern look */
-    display: inline-block; /* Prevent it from stretching across the page */
-}
-
 @media (max-width: 768px) {
     .header {
         height: 50px;
