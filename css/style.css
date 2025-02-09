@@ -1037,6 +1037,103 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 
+/* ============================= */
+/* -------- Carlmart CSS -------- */
+/* ============================= */
+
+
+.carlmart{
+    position: relative;
+    padding: 60px 0;
+}
+
+.carlmart .carlmart-info p {
+    margin-bottom: 10px;
+    color: #666666;
+    font-size: 22px;
+    font-weight: 300;
+}
+
+@media (max-width: 575px) {
+    .carlmart .carlmart-info p {
+        font-size: 16px;
+    }
+}
+
+.carlmart .carlmart-info a {
+    color: #666666;
+}
+
+.carlmart .carlmart-info a:hover {
+    color: #AF9483;
+}
+
+.carlmart .carlmart-info i {
+    width: 30px;
+    color: #AF9483;
+}
+
+.carlmart .social {
+    position: relative;
+    width: 100%;
+}
+
+.carlmart .social a {
+    display: inline-block;
+    margin: 10px 10px 0 0;
+    width: 40px;
+    height: 40px;
+    padding: 1px 0;
+    text-align: center;
+    font-size: 22px;
+    border: 1px solid #AF9483;
+}
+
+.carlmart .social a i {
+    color: #AF9483;
+}
+
+.carlmart .social a:hover {
+    background: #AF9483;
+}
+
+.carlmart .social a:hover i {
+    color: #ffffff;
+}
+
+.carlmart .form {
+    color: #666666;
+    font-weight: 300;
+}
+
+.carlmart .form input,
+.carlmart .form textarea {
+    color: #666666;
+    font-size: 16px;
+    font-weight: 300;
+    padding: 10px 0;
+    border: none;
+    border-bottom: 1px solid #AF9483;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.carlmart .form button[type="submit"] {
+    padding: 7px 30px 10px 30px;
+    color: #AF9483;
+    letter-spacing: 1px;
+    transition: 0.3s;
+    cursor: pointer;
+    border-radius: 0;
+    border: 1px solid #AF9483;
+    background: #ffffff;
+}
+
+.carlmart .form button[type="submit"]:hover {
+    background: #AF9483;
+    color: #FFFFFF;
+}
+
 
 /* ============================= */
 /* -------- Contact CSS -------- */
