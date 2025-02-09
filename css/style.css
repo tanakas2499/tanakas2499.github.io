@@ -1045,6 +1045,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .carlmart{
     position: relative;
     padding: 60px 0;
+    scroll-margin-top: 80px; /* Helps with fixed headers */
 }
 
 .carlmart .carlmart-info p {
