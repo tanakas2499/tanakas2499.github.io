@@ -949,6 +949,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .video-description {
     margin-top: 8px;
+    margin-bottom: 4px;
     font-size: 13px;
     color: #333;
     text-align: center;
