@@ -947,14 +947,24 @@ body.mobile-nav-active #mobile-nav-toggle {
     top: 50%;
 }
 
-.video-description {
+/* .video-description {
     margin-top: 8px;
     margin-bottom: 4px;
     font-size: 14px;
     color: #333;
     text-align: center;
     font-style: italic;
+} */
+
+.video-description {
+    display: block; /* Ensures it behaves like a normal paragraph */
+    max-height: none; /* Allows full height */
+    overflow: visible; /* Prevents text from getting hidden */
+    white-space: normal; /* Ensures wrapping of text */
+    word-wrap: break-word; /* Prevents long words from breaking the layout */
+    margin-top: 10px; /* Adds spacing between video and text */
 }
+
 
 /* ============================= */
 /* ------ Testimonials CSS ----- */
