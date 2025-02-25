@@ -947,7 +947,13 @@ body.mobile-nav-active #mobile-nav-toggle {
     top: 50%;
 }
 
-
+.video-description {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #333;
+    text-align: center;
+    font-style: italic;
+}
 
 /* ============================= */
 /* ------ Testimonials CSS ----- */
