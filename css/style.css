@@ -958,12 +958,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .video-description {
     display: block; /* Ensures it behaves like a normal paragraph */
-    max-height: none; /* Allows full height */
-    overflow: visible; /* Prevents text from getting hidden */
-    white-space: normal; /* Ensures wrapping of text */
-    word-wrap: break-word; /* Prevents long words from breaking the layout */
-    margin-top: 8px; /* Adds spacing between video and text */
-    padding-bottom: 4px;
+    /* overflow: visible; */
+    /* margin-top: 8px; Adds spacing between video and text */
+    /* padding-bottom: 4px; */
 }
 
 
