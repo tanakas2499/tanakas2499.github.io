@@ -959,7 +959,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .video-description {
     display: block; /* Ensures it behaves like a normal paragraph */
     /* overflow: visible; */
-    /* margin-top: 8px; Adds spacing between video and text */
+    margin-top: 1px;
     /* padding-bottom: 4px; */
 }
 
